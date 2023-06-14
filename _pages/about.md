@@ -51,10 +51,14 @@ My research interests include speech processing and speech diagnosis. Feel free 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.08 - present*, Ph.D. in Electrical Engineering,                 
+- *2023.08 - present*, Ph.D. in Electrical Engineering,        
+  Supervised by Prof. Najim Dehak,            
+  Center for Language and Speech Processing (CLSP),                         
   Johns Hopkins University, Baltimore, US.                
-- *2021.08 - 2023.05*, M.S.E. in Electrical Engineering,           
-  Concentration: Human Language Technology,                        
+- *2021.08 - 2023.05*, Master of Ssience in Engineering,         
+  Major: Electrical Engineering,                       
+  Concentration: Human Language Technology,        
+  Thesis: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by Prof. Najim Dehak and Laureano Moro-Velázquez,                   
   Johns Hopkins University, Baltimore, US. 
 - *2016.02 - 2020.12*, Bachelor of Engineering (Research and Development) (With First Class Honour) & Bachelor of Science,            
   Major: Electronic and communication systems & Statistics,        
