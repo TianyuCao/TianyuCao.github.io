@@ -7,10 +7,7 @@
 
 # Site Settings
 title                    : "Tianyu Cao (曹天宇)"
-description              : "Ph.D. Student at Center for Language and Speech Processing,         
-Department of Electrical and Computer Engineering,          
-Whiting School of Engineering,                        
-Johns Hopkins University "
+description              : "Center for Language and Speech Processing, Department of Electrical and Computer Engineering, Whiting School of Engineering, Johns Hopkins University "
 repository               : "TianyuCao/TianyuCao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianyu Cao (曹天宇)"
   avatar           : "images/Profile.png"
-  bio              : # "Johns Hopkins University"
+  bio              : "Ph.D. Student"
   location         : "Baltimore, US"
   employer         :
   pubmed           : 
