@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🙋 About me
+
 I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at JHU. I work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro-Velázquez and Jesús Villalba.        
 
 I graduated with Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in Prof. Najim Dehak’s lab. 
