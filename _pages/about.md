@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received the dual degrees: Bachelor of Engineering (Research and Development) (Honours) with the first class honours in Electronic and communication systems and Bachelor of Science in Statistics from the Australian National University (ANU) in 2020.
-I enrolled in Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in 2021. In the same year, I joint Prof. Najim Dehak’s lab and was under the supervision of Prof. Najim Dehak and Laureano Moro-Velázquez to work on the Speech Diagnosis for Parkinson’s Disease.
-In May 2023, I graduated with M.S.E in Electrical and Computer Engineering and will continue to pursue a doctoral degree (Ph.D.) in Electrical and Computer Engineering at JHU and work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro- Velázquez and Jesús Villalba.
+I received the dual degrees: Bachelor of Engineering (Research and Development) (Honours) with the first class honours in Electronic and communication systems and Bachelor of Science in Statistics from the Australian National University (ANU) in 2020.             
+
+I enrolled in Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in 2021. In the same year, I joint Prof. Najim Dehak’s lab and was under the supervision of Prof. Najim Dehak and Laureano Moro-Velázquez to work on the Speech Diagnosis for Parkinson’s Disease.                     
+
+In May 2023, I graduated with M.S.E in Electrical and Computer Engineering and will continue to pursue a doctoral degree (Ph.D.) in Electrical and Computer Engineering at JHU and work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro- Velázquez and Jesús Villalba.            
 
 <!-- My research interest includes speech processing and speech diagnosis. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
