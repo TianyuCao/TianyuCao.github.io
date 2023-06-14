@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at JHU. I work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro-Velázquez and Jesús Villalba.        
+
+I graduated with Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in Prof. Najim Dehak’s lab. 
+
 I received the dual degrees: Bachelor of Engineering (Research and Development) (Honours) with the first class honours in Electronic and communication systems and Bachelor of Science in Statistics from the Australian National University (ANU) in 2020.             
 
-I enrolled in Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in 2021. In the same year, I joint Prof. Najim Dehak’s lab and was under the supervision of Prof. Najim Dehak and Laureano Moro-Velázquez to work on the Speech Diagnosis for Parkinson’s Disease.                     
-
-In May 2023, I graduated with M.S.E in Electrical and Computer Engineering and will continue to pursue a doctoral degree (Ph.D.) in Electrical and Computer Engineering at JHU and work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro- Velázquez and Jesús Villalba.            
-
-<!-- My research interest includes speech processing and speech diagnosis. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interests include speech processing and speech diagnosis. Feel free to contact me via email: tcao7@jhu.edu.
 
 
 <!-- # 🔥 News
@@ -51,9 +51,9 @@ In May 2023, I graduated with M.S.E in Electrical and Computer Engineering and w
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.08 - present*, Ph.D. in Electrical Engineering, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.08 - 2023.05*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2016.02 - 2020.12*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - present*, Ph.D. in Electrical Engineering. Johns Hopkins University, Baltimore, US.
+- *2021.08 - 2023.05*, M.S.E. in Electrical Engineering, Concentration: Human Language Technology. Johns Hopkins University, Baltimore, US. 
+- *2016.02 - 2020.12*, Bachelor of Engineering (Research and Development) (With First Class Honour) & Bachelor of Science, Major: Electronic and communication systems & Statistics. Australian National Univerisity, Canberra, AU. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
