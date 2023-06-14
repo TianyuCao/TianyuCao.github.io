@@ -51,9 +51,15 @@ My research interests include speech processing and speech diagnosis. Feel free 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.08 - present*, Ph.D. in Electrical Engineering. Johns Hopkins University, Baltimore, US.
-- *2021.08 - 2023.05*, M.S.E. in Electrical Engineering, Concentration: Human Language Technology. Johns Hopkins University, Baltimore, US. 
-- *2016.02 - 2020.12*, Bachelor of Engineering (Research and Development) (With First Class Honour) & Bachelor of Science, Major: Electronic and communication systems & Statistics. Australian National Univerisity, Canberra, AU. 
+- *2023.08 - present*, Ph.D. in Electrical Engineering,                 
+  Johns Hopkins University, Baltimore, US.                
+- *2021.08 - 2023.05*, M.S.E. in Electrical Engineering,           
+  Concentration: Human Language Technology,                        
+  Johns Hopkins University, Baltimore, US. 
+- *2016.02 - 2020.12*, Bachelor of Engineering (Research and Development) (With First Class Honour) & Bachelor of Science,            
+  Major: Electronic and communication systems & Statistics,        
+  Minor: Applied Statistics,            
+  Australian National Univerisity, Canberra, AU. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
