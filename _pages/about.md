@@ -73,14 +73,14 @@ My research interests include speech processing and speech diagnosis. Feel free 
 # 🧑‍🏫 Teaching
 - *2022.01 - Present*, Teaching Assistant, Johns Hopkins University, Baltimore, US                     
 Teaching Assistant for the courses:               
-EN.601.412/612: Machine Learning for Signal Processing in Fall 2022 and 2023 in the Department of Electrical and Computer Engineering                       
-EN.601.439/659: Machine Learning for Medical Applications in Spring 2023 in the Department of Electrical and Computer Engineering                                 
+EN.601.412/612: Machine Learning for Signal Processing in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
+EN.601.439/659: Machine Learning for Medical Applications in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
 EN.601.123: Computational Modeling for Electrical and Computer Engineering in Spring 2023 in the Department of Electrical and Computer Engineering                               
-EN.601.475/675: Machine Learning in Spring and Fall 2022 in the Department of Computer Science                                      
+EN.601.475/675: Machine Learning in **Spring** and **Fall 2022** in the Department of Computer Science                                      
 
 - *2018.07 - 2021.06*, Academic Tutor, Australian National Univerisity, Canberra, AU                            
-ENGN4625/6625: Power Electronics (Undergraduate and postgraduate) (2018S2, 2019S2, 2020S2)                                  
-ENGN4528: Computer Vision (2021S1)                             
+ENGN4625/6625: Power Electronics (Undergraduate and postgraduate) (**2018S2, 2019S2, 2020S2**)                                  
+ENGN4528: Computer Vision (**2021S1**)                             
        
 
 
