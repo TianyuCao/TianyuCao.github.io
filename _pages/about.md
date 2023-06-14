@@ -80,8 +80,8 @@ EN.601.475/675: Machine Learning in Spring and Fall 2022 in the Department of Co
 Johns Hopkins University, Baltimore, US.  
 
 - *2018.07 - 2021.06*, Academic Tutor               
-ENGN4625/6625 Power Electronics (Undergraduate and postgraduate) (2018S2, 2019S2, 2020S2)                                  
-ENGN4528 Computer Vision (2021S1)                             
+ENGN4625/6625: Power Electronics (Undergraduate and postgraduate) (2018S2, 2019S2, 2020S2)                                  
+ENGN4528: Computer Vision (2021S1)                             
 Australian National Univerisity, Canberra, AU.        
 
 
