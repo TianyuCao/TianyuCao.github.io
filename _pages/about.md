@@ -19,11 +19,11 @@ redirect_from:
 
 # 🙋 About me
 
-I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at JHU. I work at [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the supervision of Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/).        
+I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at [Johns Hopkins University](https://www.jhu.edu/) (JHU). I work at [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the supervision of Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/).        
 
-I graduated with Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in Prof. Najim Dehak’s lab. 
+I graduated with Master of Science in Engineering (M.S.E) program at JHU with the major of [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/) and the concentration of [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/) in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in [Prof. Najim Dehak’s lab](https://engineering.jhu.edu/najim/). 
 
-I received the dual degrees: Bachelor of Engineering (Research and Development) (Honours) with the first class honours in Electronic and communication systems and Bachelor of Science in Statistics from the Australian National University (ANU) in 2020.             
+I received the dual degrees: [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2016/program/aenrd) with the first class honours in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) and [Bachelor of Science](https://programsandcourses.anu.edu.au/2016/program/bsc) in [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ) from [Australian National University](https://www.anu.edu.au/) (ANU) in 2020.             
 
 My research interests include speech processing and speech diagnosis. Feel free to contact me via email: <a href="mailto:tcao7@jhu.edu">tcao7@jhu.edu</a>.
 
@@ -54,7 +54,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
 
 # 📖 Educations
 - *2023/08 - present*, [Ph.D. in Electrical Engineering](https://engineering.jhu.edu/ece/academics/phd-program/),                            
-  Supervised by Prof. Najim Dehak,            
+  Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/),            
   [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/),                         
   Johns Hopkins University, Baltimore, US
 - *2023/08 - present*, Master of Sience in Engineering,                           
@@ -73,18 +73,18 @@ My research interests include speech processing and speech diagnosis. Feel free 
 # 🧑‍🏫 Teaching
 - *2022/01 - Present*, Teaching Assistant, Johns Hopkins University, Baltimore, US                     
 Teaching Assistant for the courses:               
-EN.601.412/612: Machine Learning for Signal Processing in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
-EN.601.439/659: Machine Learning for Medical Applications in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
-EN.601.123: Computational Modeling for Electrical and Computer Engineering in Spring 2023 in the Department of Electrical and Computer Engineering                               
-EN.601.475/675: Machine Learning in **Spring** and **Fall 2022** in the Department of Computer Science                                      
+[EN.520.412/612: Machine Learning for Signal Processing](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
+[EN.520.439/659: Machine Learning for Medical Applications](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
+[EN.601.123: Computational Modeling for Electrical and Computer Engineering](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in Spring 2023 in the Department of Electrical and Computer Engineering                               
+[EN.601.475/675: Machine Learning](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/#coursestext) in **Spring** and **Fall 2022** in the Department of Computer Science                                      
 
-- *2018/07 - 2021/06*, Academic Tutor, Australian National Univerisity, Canberra, AU                            
-ENGN4625/6625: Power Electronics (Undergraduate and postgraduate) (**2018S2, 2019S2, 2020S2**)                                  
-ENGN4528: Computer Vision (**2021S1**)                             
+- *2018/07 - 2021/06*, Academic Tutor, Australian National Univerisity, Canberra, AU    
+Academic tutor for the courses:                                   
+[ENGN4625/6625: Power Systems and Power Electronics](https://programsandcourses.anu.edu.au/2020/course/engn4625) (Undergraduate and postgraduate) (**2018S2, 2019S2, 2020S2**)     [ENGN4528: Computer Vision](https://programsandcourses.anu.edu.au/2021/course/engn4528) (**2021S1**)                             
        
 # 💁 Service
-- *2023/03/22 - 2023/03/24*, Support Staff, the 57th Annual Conference on Information Sciences and Systems (CISS), Baltimore, US        
-Served as support staff for the 57th Annual Conference on Information Sciences and Systems (CISS), organized by the Department of Electrical and Computer Engineering at The Johns Hopkins University, held from March 22-24, 2023.
+- *2023/03/22 - 2023/03/24*, Support Staff, [the 57th Annual Conference on Information Sciences and Systems (CISS)](https://ciss.jhu.edu/), Baltimore, US        
+Served as support staff for [the 57th Annual Conference on Information Sciences and Systems (CISS)](https://ciss.jhu.edu/), organized by the Department of Electrical and Computer Engineering at the Johns Hopkins University, held from March 22-24, 2023.
 
 
 
