@@ -19,13 +19,13 @@ redirect_from:
 
 # 🙋 About me
 
-I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at JHU. I work at Center for Language and Speech Processing (CLSP) under the supervision of Prof. Najim Dehak, Laureano Moro-Velázquez and Jesús Villalba.        
+I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at JHU. I work at [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the supervision of Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/).        
 
 I graduated with Master of Science in Engineering (M.S.E) program at Johns Hopkins University (JHU) with the major of Electrical and Computer Engineering and the concentration of Human Language Technology in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in Prof. Najim Dehak’s lab. 
 
 I received the dual degrees: Bachelor of Engineering (Research and Development) (Honours) with the first class honours in Electronic and communication systems and Bachelor of Science in Statistics from the Australian National University (ANU) in 2020.             
 
-My research interests include speech processing and speech diagnosis. Feel free to contact me via email: tcao7@jhu.edu.
+My research interests include speech processing and speech diagnosis. Feel free to contact me via email: <a href="mailto:tcao7@jhu.edu">tcao7@jhu.edu</a>.
 
 
 <!-- # 🔥 News
@@ -53,9 +53,9 @@ My research interests include speech processing and speech diagnosis. Feel free 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023/08 - present*, Ph.D. in Electrical Engineering,                            
+- *2023/08 - present*, [Ph.D. in Electrical Engineering](https://engineering.jhu.edu/ece/academics/phd-program/),                            
   Supervised by Prof. Najim Dehak,            
-  Center for Language and Speech Processing (CLSP),                         
+  [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/),                         
   Johns Hopkins University, Baltimore, US
 - *2023/08 - present*, Master of Sience in Engineering,                           
   **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/),                                          
@@ -63,7 +63,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
 - *2021/08 - 2023/05*, Master of Ssience in Engineering,                                    
   **Major**: [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/),                       
   **Concentration**: [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/),        
-  **Thesis**: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by [Prof. Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/),                   
+  **Thesis**: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/),                   
   Johns Hopkins University, Baltimore, US. 
 - *2016/02 - 2020/12*, [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2016/program/aenrd) (With First Class Honour) & [Bachelor of Science](https://programsandcourses.anu.edu.au/2016/program/bsc),            
   **Major**: [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) & [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ),        
