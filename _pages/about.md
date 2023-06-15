@@ -38,8 +38,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
  
 # 📝 Publications 
 
-[VSAmeter: Evaluation of a New Open-Source Tool to Measure Vowel Space Area and Related Metrics](https://www.researchgate.net/profile/Tianyu-Cao-9/publication/367482413_VSAmeter_Evaluation_of_a_New_Open-Source_Tool_to_Measure_Vowel_Space_Area_and_Related_Metrics/links/63e52a1cc002331f7266dcf9/VSAmeter-Evaluation-of-a-New-Open-Source-Tool-to-Measure-Vowel-Space-Area-and-Related-Metrics.pdf)
-
+[VSAmeter: Evaluation of a New Open-Source Tool to Measure Vowel Space Area and Related Metrics](https://www.researchgate.net/profile/Tianyu-Cao-9/publication/367482413_VSAmeter_Evaluation_of_a_New_Open-Source_Tool_to_Measure_Vowel_Space_Area_and_Related_Metrics/links/63e52a1cc002331f7266dcf9/VSAmeter-Evaluation-of-a-New-Open-Source-Tool-to-Measure-Vowel-Space-Area-and-Related-Metrics.pdf)             
 **Tianyu Cao**, Laureano Moro-Velázquez, Piotr Żelazko, Jesús Villalba, Najim Dehak
 
 
