@@ -30,7 +30,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
 
 # 🔥 News
 
-
+***2022.02***: &nbsp;🎉🎉Got admission to the Ph.D. program in Electrical Engineering in the Whiting School of Engineering at Johns Hopkins University
 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
