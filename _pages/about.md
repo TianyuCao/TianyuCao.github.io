@@ -58,16 +58,16 @@ My research interests include speech processing and speech diagnosis. Feel free 
   Center for Language and Speech Processing (CLSP),                         
   Johns Hopkins University, Baltimore, US
 - *2023/08 - present*, Master of Sience in Engineering,                           
-  Major: Computer Science,                                          
+  **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/),                                          
   Johns Hopkins University, Baltimore, US
 - *2021/08 - 2023/05*, Master of Ssience in Engineering,                                    
-  Major: Electrical Engineering,                       
-  Concentration: Human Language Technology,        
-  Thesis: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by Prof. Najim Dehak and Laureano Moro-Velázquez,                   
+  **Major**: [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/),                       
+  **Concentration**: [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/),        
+  **Thesis**: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by [Prof. Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/),                   
   Johns Hopkins University, Baltimore, US. 
-- *2016/02 - 2020/12*, Bachelor of Engineering (Research and Development) (With First Class Honour) & Bachelor of Science,            
-  Major: Electronic and communication systems & Statistics,        
-  Minor: Applied Statistics,            
+- *2016/02 - 2020/12*, [Bachelor of Engineering (Research and Development)](https://programsandcourses.anu.edu.au/2016/program/aenrd) (With First Class Honour) & [Bachelor of Science](https://programsandcourses.anu.edu.au/2016/program/bsc),            
+  **Major**: [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) & [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ),        
+  **Minor**: [Applied Statistics](https://programsandcourses.anu.edu.au/2016/minor/APST-MIN),            
   Australian National Univerisity, Canberra, AU.   
   
 # 🧑‍🏫 Teaching
