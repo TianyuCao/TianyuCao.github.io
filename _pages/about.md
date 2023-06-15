@@ -75,7 +75,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
 Teaching Assistant for the courses:               
 [EN.520.412/612: Machine Learning for Signal Processing](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
 [EN.520.439/659: Machine Learning for Medical Applications](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
-[EN.601.123: Computational Modeling for Electrical and Computer Engineering](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in Spring 2023 in the Department of Electrical and Computer Engineering                               
+[EN.520.123: Computational Modeling for Electrical and Computer Engineering](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in Spring 2023 in the Department of Electrical and Computer Engineering                               
 [EN.601.475/675: Machine Learning](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/#coursestext) in **Spring** and **Fall 2022** in the Department of Computer Science                                      
 
 - *2018/07 - 2021/06*, Academic Tutor, Australian National Univerisity, Canberra, AU    
