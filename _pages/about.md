@@ -43,6 +43,9 @@ Anna Favaro, **Tianyu Cao**, Thomas Thebaud, Jesús Villalba, Ankur Butala, Naji
 [Deep Stroop: Using eye tracking and speech processing to characterize people with neurodegenerative disorders while performing the Stroop Test](https://www.medrxiv.org/content/medrxiv/early/2023/06/01/2023.05.30.23290742.full.pdf)             
 Trevor Meyer, Anna Favaro, **Tianyu Cao**, Ankur Butala, Esther Oh, Chelsie Motley, Pedro Irazoqui, Najim Dehak, Laureano Moro-Velázquez
 
+[Multilingual Evaluation of Interpretable Biomarkers to Represent Language and Speech Patterns in Parkinson's Disease](https://www.frontiersin.org/articles/10.3389/fneur.2023.1142642/full)             
+Anna Favaro, Laureano Moro-Velázquez, Ankur Butala, Chelsie Motley, **Tianyu Cao**, Robert David Stevens, Jesús Villalba, Najim Dehak, 
+
 [VSAmeter: Evaluation of a New Open-Source Tool to Measure Vowel Space Area and Related Metrics](https://www.researchgate.net/profile/Tianyu-Cao-9/publication/367482413_VSAmeter_Evaluation_of_a_New_Open-Source_Tool_to_Measure_Vowel_Space_Area_and_Related_Metrics/links/63e52a1cc002331f7266dcf9/VSAmeter-Evaluation-of-a-New-Open-Source-Tool-to-Measure-Vowel-Space-Area-and-Related-Metrics.pdf)             
 **Tianyu Cao**, Laureano Moro-Velázquez, Piotr Żelazko, Jesús Villalba, Najim Dehak
 
