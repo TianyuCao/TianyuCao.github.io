@@ -37,12 +37,16 @@ My research interests include speech processing and speech diagnosis. Feel free 
  
  
 # 📝 Publications 
+[Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?]            
+Anna Favaro, **Tianyu Cao**, Thomas Thebaud, Jesús Villalba, Ankur Butala, Najim Dehak, Laureano Moro-Velázquez
+
+[Deep Stroop: Using eye tracking and speech processing to characterize people with neurodegenerative disorders while performing the Stroop Test](https://www.medrxiv.org/content/medrxiv/early/2023/06/01/2023.05.30.23290742.full.pdf)             
+Trevor Meyer, Anna Favaro, **Tianyu Cao**, Ankur Butala, Esther Oh, Chelsie Motley, Pedro Irazoqui, Najim Dehak, Laureano Moro-Velázquez
 
 [VSAmeter: Evaluation of a New Open-Source Tool to Measure Vowel Space Area and Related Metrics](https://www.researchgate.net/profile/Tianyu-Cao-9/publication/367482413_VSAmeter_Evaluation_of_a_New_Open-Source_Tool_to_Measure_Vowel_Space_Area_and_Related_Metrics/links/63e52a1cc002331f7266dcf9/VSAmeter-Evaluation-of-a-New-Open-Source-Tool-to-Measure-Vowel-Space-Area-and-Related-Metrics.pdf)             
 **Tianyu Cao**, Laureano Moro-Velázquez, Piotr Żelazko, Jesús Villalba, Najim Dehak
 
 [A Multi-Modal Array of Interpretable Features to Evaluate Language and Speech Patterns in Different Neurological Disorders](https://ieeexplore.ieee.org/abstract/document/10022435)             
-**Tianyu Cao**, Laureano Moro-Velázquez, Piotr Żelazko, Jesús Villalba, Najim Dehak
 Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esther S. Oh, Robert D. Stevens, Jesús Villalba, Najim Dehak, Laureano Moro-Velázquez
 
 
