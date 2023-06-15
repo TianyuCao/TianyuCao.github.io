@@ -88,15 +88,15 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 # 🧑‍🏫 Teaching
 - *2022/01 - Present*, Teaching Assistant, Johns Hopkins University, Baltimore, US                     
 Teaching Assistant for the courses:               
-[EN.520.412/612: Machine Learning for Signal Processing](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
-[EN.520.439/659: Machine Learning for Medical Applications](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
-[EN.520.123: Computational Modeling for Electrical and Computer Engineering](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in Spring 2023 in the Department of Electrical and Computer Engineering                               
-[EN.601.475/675: Machine Learning](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/#coursestext) in **Spring** and **Fall 2022** in the Department of Computer Science                                      
+  * [EN.520.412/612: Machine Learning for Signal Processing](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Fall 2022** and **2023** in the Department of Electrical and Computer Engineering                       
+  * [EN.520.439/659: Machine Learning for Medical Applications](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in **Spring 2023** in the Department of Electrical and Computer Engineering                                 
+  * [EN.520.123: Computational Modeling for Electrical and Computer Engineering](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/electrical-computer-engineering/#coursestext) in Spring 2023 in the Department of Electrical and Computer Engineering                               
+  * [EN.601.475/675: Machine Learning](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/#coursestext) in **Spring** and **Fall 2022** in the Department of Computer Science                                      
 
 - *2018/07 - 2021/06*, Academic Tutor, Australian National Univerisity, Canberra, AU    
 Academic tutor for the courses:                                   
-[ENGN4625/6625: Power Systems and Power Electronics](https://programsandcourses.anu.edu.au/2020/course/engn4625) (Undergraduate and postgraduate) (**2018S2, 2019S2, 2020S2**)     
-[ENGN4528: Computer Vision](https://programsandcourses.anu.edu.au/2021/course/engn4528) (**2021S1**)                             
+  * [ENGN4625/6625: Power Systems and Power Electronics](https://programsandcourses.anu.edu.au/2020/course/engn4625) (Undergraduate and postgraduate) (**2018S2, 2019S2, 2020S2**)    
+  * [ENGN4528: Computer Vision](https://programsandcourses.anu.edu.au/2021/course/engn4528) (**2021S1**)                             
        
 # 💁 Service
 - *2023/03/22 - 2023/03/24*, Support Staff, [the 57th Annual Conference on Information Sciences and Systems (CISS)](https://ciss.jhu.edu/), Baltimore, US        
