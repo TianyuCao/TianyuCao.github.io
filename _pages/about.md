@@ -74,7 +74,7 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 # 📖 Educations
 - [**Ph.D. in Electrical Engineering**](https://engineering.jhu.edu/ece/academics/phd-program/), Johns Hopkins University, Baltimore, US, *(2023/08 - present)*                                
   Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/),            
-  [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/)
+  [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/)              
   **Award**: ECE Departmental Fellowship 
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *(2023/08 - present)*,                           
   **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/),                                          
