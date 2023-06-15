@@ -57,10 +57,10 @@ My research interests include speech processing and speech diagnosis. Feel free 
   Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/),            
   [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/),                         
   Johns Hopkins University, Baltimore, US
-- *2023/08 - present*, Master of Sience in Engineering,                           
+- *2023/08 - present*, Master of Science in Engineering,                           
   **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/),                                          
   Johns Hopkins University, Baltimore, US
-- *2021/08 - 2023/05*, Master of Ssience in Engineering,                                    
+- *2021/08 - 2023/05*, Master of Science in Engineering,                                    
   **Major**: [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/),                       
   **Concentration**: [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/),        
   **Thesis**: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/),                   
