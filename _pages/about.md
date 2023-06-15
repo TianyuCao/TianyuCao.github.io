@@ -37,7 +37,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
  
  
 # 📝 Publications 
-[Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?]            
+Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?                 
 Anna Favaro, **Tianyu Cao**, Thomas Thebaud, Jesús Villalba, Ankur Butala, Najim Dehak, Laureano Moro-Velázquez
 
 [Deep Stroop: Using eye tracking and speech processing to characterize people with neurodegenerative disorders while performing the Stroop Test](https://www.medrxiv.org/content/medrxiv/early/2023/06/01/2023.05.30.23290742.full.pdf)             
