@@ -77,7 +77,7 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
   [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/)              
   **Award**: ECE Departmental Fellowship 
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *(2023/08 - present)*,                           
-  **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/),                                          
+  **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)                                                   
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *(2021/08 - 2023/05)*,                                    
   **Major**: [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/),                       
   **Concentration**: [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/),        
