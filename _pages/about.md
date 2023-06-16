@@ -103,7 +103,7 @@ Academic tutor for the courses:
        
 # 💁 Service
 - *2023/03/22 - 2023/03/24*, Support Staff, [the 57th Annual Conference on Information Sciences and Systems (CISS)](https://ciss.jhu.edu/), Baltimore, US        
-Served as support staff for [the 57th Annual Conference on Information Sciences and Systems (CISS)](https://ciss.jhu.edu/), organized by the Department of Electrical and Computer Engineering at the Johns Hopkins University, held from March 22-24, 2023. [Certificate of Collaboration](https://www.dropbox.com/s/qcfnx457rrtb6ki/Certificate%20of%20Collaboration_CISS.pdf?dl=0)
+Served as support staff for the 57th Annual Conference on Information Sciences and Systems (CISS), organized by the Department of Electrical and Computer Engineering at the Johns Hopkins University, held from March 22-24, 2023. [[Certificate of Collaboration]](https://www.dropbox.com/s/qcfnx457rrtb6ki/Certificate%20of%20Collaboration_CISS.pdf?dl=0)
 
 
 
