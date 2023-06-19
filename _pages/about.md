@@ -21,9 +21,9 @@ redirect_from:
 
 I am an incoming Ph.D. student who will pursue a doctoral degree (Ph.D.) in Electrical Engineering at [Johns Hopkins University (JHU)](https://www.jhu.edu/). I work at [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/) under the supervision of Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/).        
 
-I graduated with Master of Science in Engineering (M.S.E) program at JHU with the major of [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/) and the concentration of [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/) in May, 2023. I worked on Speech Diagnosis for Parkinson’s Disease in [Prof. Najim Dehak’s lab](https://engineering.jhu.edu/najim/). 
+I graduated with Master of Science in Engineering (M.S.E) program at JHU with the major of [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/) and the concentration of [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/) in May 2023. I worked on Speech Diagnosis for Parkinson’s Disease in [Prof. Najim Dehak’s lab](https://engineering.jhu.edu/najim/). 
 
-I received the dual degrees: [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2016/program/aenrd) with the first class honours in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) and [Bachelor of Science](https://programsandcourses.anu.edu.au/2016/program/bsc) in [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ) from [Australian National University (ANU)](https://www.anu.edu.au/) in December, 2020.             
+I received the dual degrees: [Bachelor of Engineering (Research and Development) (Honours)](https://programsandcourses.anu.edu.au/2016/program/aenrd) with the first class honours in [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) and [Bachelor of Science](https://programsandcourses.anu.edu.au/2016/program/bsc) in [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ) from [Australian National University (ANU)](https://www.anu.edu.au/) in December 2020.             
 
 My research interests include speech processing and speech diagnosis. Feel free to contact me via email: <a href="mailto:tcao7@jhu.edu">tcao7@jhu.edu</a>.
 
@@ -75,9 +75,8 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- [**Ph.D. in Electrical Engineering**](https://engineering.jhu.edu/ece/academics/phd-program/), Johns Hopkins University, Baltimore, US, *2023/08 - present*,                                     
-  Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/)                
-  [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/)              
+- [**Ph.D. in Electrical Engineering**](https://engineering.jhu.edu/ece/academics/phd-program/), Johns Hopkins University, Baltimore, US, *2023/08 - present*,                 Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/),                  
+  [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/),                 
   **Award**: ECE Departmental Fellowship 
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *2023/08 - present*,                              
   **Major**: [Computer Science](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)                                                   
