@@ -75,7 +75,7 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- [**Ph.D. in Electrical Engineering**](https://engineering.jhu.edu/ece/academics/phd-program/), Johns Hopkins University, Baltimore, US, *2023/08 - present*,                 Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/),                  
+- [**Ph.D. in Electrical Engineering**](https://engineering.jhu.edu/ece/academics/phd-program/), Johns Hopkins University, Baltimore, US, *2023/08 - present*,                    Supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/), [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/) and [Jesús Villalba](https://www.clsp.jhu.edu/faculty/jesus-villalba/),                  
   [Center for Language and Speech Processing (CLSP)](https://www.clsp.jhu.edu/),                 
   **Award**: ECE Departmental Fellowship 
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *2023/08 - present*,                              
