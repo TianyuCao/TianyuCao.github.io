@@ -71,7 +71,8 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023.01* ECE Departmental Fellowship: This competitive scholarship is awarded to a prospective ECE Ph.D. student who has shown exceptional promise. The primary purpose is to provide an incoming student with a broad set of interests the flexibility to work with multiple faculty members/lab groups in their first year. The Fellowship includes full 1st-year tuition, fees, and stipend support for 12 months. Incoming students cannot apply directly. Instead, it is a scholarship awarded to a particular student based on the recommendation of the ECE Department Faculty and chosen by the ECE Ph.D. Faculty Admissions Committee. 
+- *2023/01*: **ECE Departmental Fellowship**:                  
+  This competitive scholarship is awarded to a prospective ECE Ph.D. student who has shown exceptional promise. The primary purpose is to provide an incoming student with a broad set of interests the flexibility to work with multiple faculty members/lab groups in their first year. The Fellowship includes full 1st-year tuition, fees, and stipend support for 12 months. Incoming students cannot apply directly. Instead, it is a scholarship awarded to a particular student based on the recommendation of the ECE Department Faculty and chosen by the ECE Ph.D. Faculty Admissions Committee. 
 
 
 # 📖 Educations
