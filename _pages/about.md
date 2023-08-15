@@ -85,7 +85,7 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - **Master of Science in Engineering**, Johns Hopkins University, Baltimore, US, *2021/08 - 2023/05*,                                     
   **Major**: [Electrical Engineering](https://engineering.jhu.edu/ece/academics/masters-program/),                       
   **Concentration**: [Human Language Technology](https://www.clsp.jhu.edu/human-language-technology-masters/),          
-  **Thesis**: _Vowel Space Metrics for People with Typical and Atypical Speech_ supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/)                      
+  **Thesis**: [_Vowel Space Metrics for People with Typical and Atypical Speech_] (https://jscholarship.library.jhu.edu/handle/1774.2/68569) supervised by Prof. [Najim Dehak](https://engineering.jhu.edu/faculty/najim-dehak/) and [Laureano Moro-Velázquez](https://www.clsp.jhu.edu/faculty/laureano-moro-velazquez/)                      
 - [**Bachelor of Engineering (Research and Development) (Honours)**](https://programsandcourses.anu.edu.au/2016/program/aenrd) &               
   [**Bachelor of Science**](https://programsandcourses.anu.edu.au/2016/program/bsc), Australian National Univerisity, Canberra, AU, *2016/02 - 2020/12*,                
   **Major**: [Electronic and Communication Systems](https://programsandcourses.anu.edu.au/2016/major/ELCO-MAJ) & [Statistics](https://programsandcourses.anu.edu.au/2016/major/STAT-MAJ),        
