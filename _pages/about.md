@@ -40,7 +40,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
 - Cumulative Pair-wise Vowel Distance (CPVD): New Vowel Space Metrics for People with Atypical Speech                           
 **Tianyu Cao**, Anna Favaro, Thomas Thebaud, Jesús Villalba, Ankur Butala, Najim Dehak, Laureano Moro-Velázquez
 
-- Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?                 
+- [Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?](https://www.isca-speech.org/archive/interspeech_2023/favaro23_interspeech.html)                 
 Anna Favaro, **Tianyu Cao**, Thomas Thebaud, Jesús Villalba, Ankur Butala, Najim Dehak, Laureano Moro-Velázquez
 
 - [Deep Stroop: Using eye tracking and speech processing to characterize people with neurodegenerative disorders while performing the Stroop Test](https://www.medrxiv.org/content/medrxiv/early/2023/06/01/2023.05.30.23290742.full.pdf)             
