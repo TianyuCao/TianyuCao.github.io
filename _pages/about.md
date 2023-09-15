@@ -73,7 +73,7 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023/01*: **[Nicholas P. Jones Fellowship](https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/)**:                  
+- *2023/09*: **[Nicholas P. Jones Fellowship](https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/)**:                  
   The Jones Fellowship is a donor-funded award that supports graduate financial aid. In particular, the Jones Fellowship's purpose is to provide financial aid support to graduate students of the Whiting School of Engineering. It was established by various donors to recognize Nicholas P. Jones' leadership and successes during his 25 years at JHU, including 9 years as Dean for the Whiting School of Engineering, in 2013.                     
   
 - *2023/01*: **ECE Departmental Fellowship**:                  
