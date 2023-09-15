@@ -30,6 +30,8 @@ My research interests include speech processing and speech diagnosis. Feel free 
 
 # 🔥 News
 
+***2023/09/14***: &nbsp;🎉🎉I am thrilled to share that I have been named as the recipient of the [Nicholas P. Jones Fellowship](https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/) for the 2023-2024 academic year in the Johns Hopkins Whiting School of Engineering.
+
 ***2023/05/23***: &nbsp;🎓🎓Graduated from JHU with a M.S.E. in ECE today.
 
 ***2023/01/27***: &nbsp;🎉🎉Got admission to the Ph.D. program in Electrical Engineering in the Whiting School of Engineering at Johns Hopkins University
@@ -71,6 +73,9 @@ Anna Favaro, Chelsie Motley, **Tianyu Cao**, Miguel Iglesias, Ankur Butala, Esth
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2023/01*: **[Nicholas P. Jones Fellowship](https://engineering.jhu.edu/education/graduate-studies/full-time-graduate-fellowships-grants/)**:                  
+  The Jones Fellowship is a donor-funded award that supports graduate financial aid. In particular, the Jones Fellowship's purpose is to provide financial aid support to graduate students of the Whiting School of Engineering. It was established by various donors to recognize Nicholas P. Jones' leadership and successes during his 25 years at JHU, including 9 years as Dean for the Whiting School of Engineering, in 2013.                     
+  
 - *2023/01*: **ECE Departmental Fellowship**:                  
   This competitive scholarship is awarded to a prospective ECE Ph.D. student who has shown exceptional promise. The primary purpose is to provide an incoming student with a broad set of interests the flexibility to work with multiple faculty members/lab groups in their first year. The Fellowship includes full 1st-year tuition, fees, and stipend support for 12 months. Incoming students cannot apply directly. Instead, it is a scholarship awarded to a particular student based on the recommendation of the ECE Department Faculty and chosen by the ECE Ph.D. Faculty Admissions Committee. 
 
