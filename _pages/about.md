@@ -39,7 +39,7 @@ My research interests include speech processing and speech diagnosis. Feel free 
  
  
 # 📝 Publications 
-- [Cumulative Pair-wise Vowel Distance (CPVD): New Vowel Space Metrics for People with Atypical Speech](https://www.researchgate.net/publication/374840975_Cumulative_Pair-wise_Vowel_Distance_CPVD_New_Vowel_Space_Metrics_for_People_with_Atypical_Speech#fullTextFileContent)                           
+- [Cumulative Pair-wise Vowel Distance (CPVD): New Vowel Space Metrics for People with Atypical Speech](https://books.google.com/books?hl=en&lr=&id=1eLjEAAAQBAJ&oi=fnd&pg=PA75&ots=2hId6uQITt&sig=mSe92B2U3bezPeD4o-xErxBeue8#v=onepage&q&f=false)                          
 **Tianyu Cao**, Anna Favaro, Thomas Thebaud, Jesús Villalba, Ankur Butala, Najim Dehak, Laureano Moro-Velázquez
 
 - [Do Phonatory Features Display Robustness to Characterize Parkinsonian Speech Across Corpora?](https://www.isca-speech.org/archive/interspeech_2023/favaro23_interspeech.html)                 
